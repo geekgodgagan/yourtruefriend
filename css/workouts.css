@@ -505,3 +505,31 @@ footer {
   100% { color: red;}
 }
 
+.main-front{
+}
+
+.box{
+	position:relative;
+	top:100px;
+	font-size:25px;
+	font-family:'Work Sans',sans-serif;
+}
+
+#effect{
+    background-color: rgba(0, 0, 0, 0.4);
+	color:white;
+	font-family:'Josefin Sans',cursive;
+	margin-top:20px;
+}
+
+#lone-image{
+	background-image:url('../img/lonely2.jpg');
+	height:700px;
+}
+
+#fear-image{
+	background-image:url('../img/fear.jpg');
+	height:700px;
+
+}
+	
